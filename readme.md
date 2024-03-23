@@ -1,3 +1,7 @@
-This app is created in Flutter.
-It is my first ever app, that's why it's very basic.
-This app rolls a dice by tapping on the dice.
+- 👋 Hi, I’m @Harr-is
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Game Development.
+- 📫 This app contains a roll dice function.
+- 😄 It is my first ever app hence contains very less expertise.
+- ⚡ I will be uploading futher apps with better expertise.
